@@ -1,2 +1,5 @@
 # Maini-ProgrammLanguage
-I tried to make a Programm Language XD (not finished)
+Ich habe es versucht eine Programmiersprache zu programmieren XD (nicht fertig)
+
+Errorcodes:
+0x001 = Dieser Befehle existiert nicht
