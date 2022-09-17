@@ -1,4 +1,4 @@
-# Maini-ProgrammLanguage
+# Maini-Programmiersprache
 Ich habe es versucht eine Programmiersprache zu programmieren XD (nicht fertig)
 
 Errorcodes:
